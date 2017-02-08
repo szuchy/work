@@ -1,0 +1,26 @@
+
+# reading Geometry from File
+/polar/det/setWorldFile physWorldBox.gdml
+/polar/det/setVolumes module
+/polar/det/setVolumes detector
+
+/polar/Analysis/setThreshold  15 keV
+/polar/Analysis/setkB  0.143
+/polar/Analysis/setAnalysisLevel  4
+/polar/Analysis/setQuickLook 2
+
+#/polar/det/setVolumes spaceLab
+/run/initialize
+/gps/particle proton
+/gps/pos/type Plane
+/gps/ene/type Pow
+/gps/ene/alpha -2.0
+/gps/ene/min 10.0 MeV
+/gps/ene/max 50.0 MeV
+/gps/pos/shape Square
+/gps/pos/centre 10.0 0.0 17.0 cm
+/gps/pos/halfx 17 cm
+/gps/pos/halfy 15 cm
+/gps/pos/rot1 -0.866025404 0 0.5 //30 deg
+/gps/direction -0.5 0 -0.866025404
+/run/beamOn 45000000
