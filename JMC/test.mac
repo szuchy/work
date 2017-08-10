@@ -1,0 +1,29 @@
+/run/initialize
+/vis/scene/endOfEventAction accumulate 1000
+/gps/particle proton
+/gps/pos/type Surface
+/gps/ene/type Arb
+#/gps/ene/alpha -2.0
+#/gps/ene/min 10.0 eV
+#/gps/ene/max 10.0 eV
+/gps/hist/type arb
+/gps/hist/file inihist.txt
+#/gps/energy 100 MeV
+#/gps/hist/point 5 25
+#/gps/hist/point 7 30
+#/gps/hist/point 9 45
+/gps/hist/inter Log
+/gps/pos/shape Sphere
+/gps/pos/centre 0.0 0.0 0.0 cm
+#/gps/pos/halfx 17 cm
+#/gps/pos/halfy 15 cm
+/gps/pos/radius 50 cm
+#/gps/pos/rot1 -0.866025404 0 0.5 //30 deg
+#/gps/direction 0.0 0 -1.0
+/gps/ang/type cos
+/gps/ang/maxphi 360 deg
+/gps/ang/maxtheta 2 deg
+#/gps/ang/sigma_r 40
+#/gps/ang/sigma_x 40
+#/gps/ang/sigma_y 40
+/run/beamOn 10000

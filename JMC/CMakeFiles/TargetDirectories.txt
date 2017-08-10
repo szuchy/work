@@ -1,0 +1,7 @@
+/home/patryk/Desktop/JMC/CMakeFiles/install.dir
+/home/patryk/Desktop/JMC/CMakeFiles/list_install_components.dir
+/home/patryk/Desktop/JMC/CMakeFiles/rebuild_cache.dir
+/home/patryk/Desktop/JMC/CMakeFiles/JMC.dir
+/home/patryk/Desktop/JMC/CMakeFiles/install/strip.dir
+/home/patryk/Desktop/JMC/CMakeFiles/install/local.dir
+/home/patryk/Desktop/JMC/CMakeFiles/edit_cache.dir
