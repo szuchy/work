@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+  <define>
+    <position name="Sil26_v0" unit="mm" x="-213.960800170898" y="81.0100021362305" z="5.92580604553223"/>
+    <position name="Sil26_v1" unit="mm" x="-213.775012016296" y="81.0100021362305" z="4.790855884552"/>
+    <position name="Sil26_v2" unit="mm" x="-214.282194137573" y="81.0100021362305" z="5.54278373718262"/>
+    <position name="Sil26_v3" unit="mm" x="-211.95902633667" y="81.0100021362305" z="4.24611854553223"/>
+    <position name="Sil26_v4" unit="mm" x="-212.280420303345" y="81.0100021362305" z="3.86309623718262"/>
+    <position name="Sil26_v5" unit="mm" x="-213.108996391296" y="81.0100021362305" z="4.23200225830078"/>
+    <position name="Sil26_v6" unit="mm" x="-213.132224082947" y="81.0100021362305" z="5.55690002441406"/>
+    <position name="Sil26_v7" unit="mm" x="-212.466208457947" y="81.0100021362305" z="4.99804639816284"/>
+    <position name="Sil26_v8" unit="mm" x="-211.95902633667" y="81.0100021362305" z="4.24611854553223"/>
+    <position name="Sil26_v9" unit="mm" x="-213.108996391296" y="81.0100021362305" z="4.23200225830078"/>
+    <position name="Sil26_v10" unit="mm" x="-213.120610237122" y="81.0100021362305" z="4.89445114135742"/>
+    <position name="Sil26_v11" unit="mm" x="-212.466208457947" y="81.0100021362305" z="4.99804639816284"/>
+    <position name="Sil26_v12" unit="mm" x="-213.120610237122" y="81.0100021362305" z="4.89445114135742"/>
+    <position name="Sil26_v13" unit="mm" x="-213.108996391296" y="81.0100021362305" z="4.23200225830078"/>
+    <position name="Sil26_v14" unit="mm" x="-213.120610237122" y="81.0100021362305" z="4.89445114135742"/>
+    <position name="Sil26_v15" unit="mm" x="-213.120610237122" y="81.0100021362305" z="4.89445114135742"/>
+    <position name="Sil26_v16" unit="mm" x="-212.466208457947" y="81.0100021362305" z="4.99804639816284"/>
+    <position name="Sil26_v17" unit="mm" x="-213.108996391296" y="81.0100021362305" z="4.23200225830078"/>
+    <position name="Sil26_v18" unit="mm" x="-212.280420303345" y="81.0100021362305" z="3.86309623718262"/>
+    <position name="Sil26_v19" unit="mm" x="-211.95902633667" y="81.0100021362305" z="4.24611854553223"/>
+    <position name="Sil26_v20" unit="mm" x="-211.95902633667" y="80.6900024414062" z="4.24611854553223"/>
+    <position name="Sil26_v21" unit="mm" x="-212.280420303345" y="81.0100021362305" z="3.86309623718262"/>
+    <position name="Sil26_v22" unit="mm" x="-211.95902633667" y="80.6900024414062" z="4.24611854553223"/>
+    <position name="Sil26_v23" unit="mm" x="-212.280420303345" y="80.6900024414062" z="3.86309623718262"/>
+    <position name="Sil26_v24" unit="mm" x="-213.108996391296" y="80.6900024414062" z="4.23200225830078"/>
+    <position name="Sil26_v25" unit="mm" x="-212.280420303345" y="81.0100021362305" z="3.86309623718262"/>
+    <position name="Sil26_v26" unit="mm" x="-212.280420303345" y="80.6900024414062" z="3.86309623718262"/>
+    <position name="Sil26_v27" unit="mm" x="-213.108996391296" y="81.0100021362305" z="4.23200225830078"/>
+    <position name="Sil26_v28" unit="mm" x="-212.280420303345" y="81.0100021362305" z="3.86309623718262"/>
+    <position name="Sil26_v29" unit="mm" x="-213.108996391296" y="80.6900024414062" z="4.23200225830078"/>
+    <position name="Sil26_v30" unit="mm" x="-211.95902633667" y="80.6900024414062" z="4.24611854553223"/>
+    <position name="Sil26_v31" unit="mm" x="-212.466208457947" y="81.0100021362305" z="4.99804639816284"/>
+    <position name="Sil26_v32" unit="mm" x="-212.466208457947" y="80.6900024414062" z="4.99804639816284"/>
+    <position name="Sil26_v33" unit="mm" x="-211.95902633667" y="81.0100021362305" z="4.24611854553223"/>
+    <position name="Sil26_v34" unit="mm" x="-212.466208457947" y="81.0100021362305" z="4.99804639816284"/>
+    <position name="Sil26_v35" unit="mm" x="-211.95902633667" y="80.6900024414062" z="4.24611854553223"/>
+    <position name="Sil26_v36" unit="mm" x="-214.282194137573" y="81.0100021362305" z="5.54278373718262"/>
+    <position name="Sil26_v37" unit="mm" x="-214.282194137573" y="80.6900024414062" z="5.54278373718262"/>
+    <position name="Sil26_v38" unit="mm" x="-214.282194137573" y="80.6900024414062" z="5.54278373718262"/>
+    <position name="Sil26_v39" unit="mm" x="-213.960800170898" y="80.6900024414062" z="5.92580604553223"/>
+    <position name="Sil26_v40" unit="mm" x="-213.108996391296" y="81.0100021362305" z="4.23200225830078"/>
+    <position name="Sil26_v41" unit="mm" x="-213.108996391296" y="80.6900024414062" z="4.23200225830078"/>
+    <position name="Sil26_v42" unit="mm" x="-213.108996391296" y="80.6900024414062" z="4.23200225830078"/>
+    <position name="Sil26_v43" unit="mm" x="-213.775012016296" y="80.6900024414062" z="4.790855884552"/>
+    <position name="Sil26_v44" unit="mm" x="-213.960800170898" y="80.6900024414062" z="5.92580604553223"/>
+    <position name="Sil26_v45" unit="mm" x="-213.960800170898" y="80.6900024414062" z="5.92580604553223"/>
+    <position name="Sil26_v46" unit="mm" x="-213.132224082947" y="80.6900024414062" z="5.55690002441406"/>
+    <position name="Sil26_v47" unit="mm" x="-214.282194137573" y="81.0100021362305" z="5.54278373718262"/>
+    <position name="Sil26_v48" unit="mm" x="-213.775012016296" y="80.6900024414062" z="4.790855884552"/>
+    <position name="Sil26_v49" unit="mm" x="-214.282194137573" y="81.0100021362305" z="5.54278373718262"/>
+    <position name="Sil26_v50" unit="mm" x="-213.775012016296" y="80.6900024414062" z="4.790855884552"/>
+    <position name="Sil26_v51" unit="mm" x="-214.282194137573" y="80.6900024414062" z="5.54278373718262"/>
+    <position name="Sil26_v52" unit="mm" x="-212.466208457947" y="81.0100021362305" z="4.99804639816284"/>
+    <position name="Sil26_v53" unit="mm" x="-213.132224082947" y="80.6900024414062" z="5.55690002441406"/>
+    <position name="Sil26_v54" unit="mm" x="-212.466208457947" y="81.0100021362305" z="4.99804639816284"/>
+    <position name="Sil26_v55" unit="mm" x="-213.132224082947" y="80.6900024414062" z="5.55690002441406"/>
+    <position name="Sil26_v56" unit="mm" x="-212.466208457947" y="80.6900024414062" z="4.99804639816284"/>
+    <position name="Sil26_v57" unit="mm" x="-213.960800170898" y="80.6900024414062" z="5.92580604553223"/>
+    <position name="Sil26_v58" unit="mm" x="-214.282194137573" y="80.6900024414062" z="5.54278373718262"/>
+    <position name="Sil26_v59" unit="mm" x="-213.132224082947" y="80.6900024414062" z="5.55690002441406"/>
+    <position name="Sil26_v60" unit="mm" x="-214.282194137573" y="80.6900024414062" z="5.54278373718262"/>
+    <position name="Sil26_v61" unit="mm" x="-213.775012016296" y="80.6900024414062" z="4.790855884552"/>
+    <position name="Sil26_v62" unit="mm" x="-213.132224082947" y="80.6900024414062" z="5.55690002441406"/>
+    <position name="Sil26_v63" unit="mm" x="-213.108996391296" y="80.6900024414062" z="4.23200225830078"/>
+    <position name="Sil26_v64" unit="mm" x="-212.280420303345" y="80.6900024414062" z="3.86309623718262"/>
+    <position name="Sil26_v65" unit="mm" x="-212.466208457947" y="80.6900024414062" z="4.99804639816284"/>
+    <position name="Sil26_v66" unit="mm" x="-212.280420303345" y="80.6900024414062" z="3.86309623718262"/>
+    <position name="Sil26_v67" unit="mm" x="-211.95902633667" y="80.6900024414062" z="4.24611854553223"/>
+    <position name="Sil26_v68" unit="mm" x="-212.466208457947" y="80.6900024414062" z="4.99804639816284"/>
+    <position name="Sil26_v69" unit="mm" x="-212.466208457947" y="80.6900024414062" z="4.99804639816284"/>
+    <position name="Sil26_v70" unit="mm" x="-213.132224082947" y="80.6900024414062" z="5.55690002441406"/>
+    <position name="Sil26_v71" unit="mm" x="-213.120610237122" y="80.6900024414062" z="4.89445114135742"/>
+    <position name="Sil26_v72" unit="mm" x="-213.775012016296" y="80.6900024414062" z="4.790855884552"/>
+    <position name="Sil26_v73" unit="mm" x="-213.108996391296" y="80.6900024414062" z="4.23200225830078"/>
+    <position name="Sil26_v74" unit="mm" x="-213.120610237122" y="80.6900024414062" z="4.89445114135742"/>
+    <position name="Sil26_v75" unit="mm" x="-213.132224082947" y="80.6900024414062" z="5.55690002441406"/>
+    <position name="Sil26_v76" unit="mm" x="-213.775012016296" y="80.6900024414062" z="4.790855884552"/>
+    <position name="Sil26_v77" unit="mm" x="-213.120610237122" y="80.6900024414062" z="4.89445114135742"/>
+    <position name="Sil26_v78" unit="mm" x="-213.108996391296" y="80.6900024414062" z="4.23200225830078"/>
+    <position name="Sil26_v79" unit="mm" x="-212.466208457947" y="80.6900024414062" z="4.99804639816284"/>
+    <position name="Sil26_v80" unit="mm" x="-213.120610237122" y="80.6900024414062" z="4.89445114135742"/>
+  </define>
+
+  <materials>
+    <isotope N="1" Z="1" name="H10xeee0a0">
+      <atom unit="g/mole" value="1.00782503081372"/>
+    </isotope>
+    <isotope N="2" Z="1" name="H20xeee110">
+      <atom unit="g/mole" value="2.01410199966617"/>
+    </isotope>
+    <element name="H0xef1390">
+      <fraction n="0.999885" ref="H10xeee0a0"/>
+      <fraction n="0.000115" ref="H20xeee110"/>
+    </element>
+    <isotope N="16" Z="8" name="O160xee6220">
+      <atom unit="g/mole" value="15.9949"/>
+    </isotope>
+    <isotope N="17" Z="8" name="O170xee6620">
+      <atom unit="g/mole" value="16.9991"/>
+    </isotope>
+    <isotope N="18" Z="8" name="O180xee66b0">
+      <atom unit="g/mole" value="17.9992"/>
+    </isotope>
+    <element name="O0xee63a0">
+      <fraction n="0.99757" ref="O160xee6220"/>
+      <fraction n="0.00038" ref="O170xee6620"/>
+      <fraction n="0.00205" ref="O180xee66b0"/>
+    </element>
+    <material name="G4_WATER0xeedf70" state="solid">
+      <MEE unit="eV" value="78"/>
+      <D unit="g/cm3" value="1"/>
+      <fraction n="0.111898477841067" ref="H0xef1390"/>
+      <fraction n="0.888101522158933" ref="O0xee63a0"/>
+    </material>
+    <isotope N="12" Z="6" name="C120xee1880">
+      <atom unit="g/mole" value="12"/>
+    </isotope>
+    <isotope N="13" Z="6" name="C130xee1a80">
+      <atom unit="g/mole" value="13.0034"/>
+    </isotope>
+    <element name="C0xedfc30">
+      <fraction n="0.9893" ref="C120xee1880"/>
+      <fraction n="0.0107" ref="C130xee1a80"/>
+    </element>
+    <isotope N="14" Z="7" name="N140xee62a0">
+      <atom unit="g/mole" value="14.0031"/>
+    </isotope>
+    <isotope N="15" Z="7" name="N150xee6340">
+      <atom unit="g/mole" value="15.0001"/>
+    </isotope>
+    <element name="N0xee6040">
+      <fraction n="0.99632" ref="N140xee62a0"/>
+      <fraction n="0.00368" ref="N150xee6340"/>
+    </element>
+    <isotope N="36" Z="18" name="Ar360xee6550">
+      <atom unit="g/mole" value="35.9675"/>
+    </isotope>
+    <isotope N="38" Z="18" name="Ar380xee6980">
+      <atom unit="g/mole" value="37.9627"/>
+    </isotope>
+    <isotope N="40" Z="18" name="Ar400xee6a80">
+      <atom unit="g/mole" value="39.9624"/>
+    </isotope>
+    <element name="Ar0xee6720">
+      <fraction n="0.003365" ref="Ar360xee6550"/>
+      <fraction n="0.000632" ref="Ar380xee6980"/>
+      <fraction n="0.996003" ref="Ar400xee6a80"/>
+    </element>
+    <material name="G4_AIR0xee5e70" state="gas">
+      <MEE unit="eV" value="85.7"/>
+      <D unit="g/cm3" value="0.00120479"/>
+      <fraction n="0.000124000124000124" ref="C0xedfc30"/>
+      <fraction n="0.755267755267755" ref="N0xee6040"/>
+      <fraction n="0.231781231781232" ref="O0xee63a0"/>
+      <fraction n="0.0128270128270128" ref="Ar0xee6720"/>
+    </material>
+  </materials>
+
+  <solids>
+    <tessellated aunit="deg" lunit="mm" name="Sil260xf007e0">
+      <triangular vertex1="Sil26_v0" vertex2="Sil26_v1" vertex3="Sil26_v2"/>
+      <triangular vertex1="Sil26_v3" vertex2="Sil26_v4" vertex3="Sil26_v5"/>
+      <triangular vertex1="Sil26_v6" vertex2="Sil26_v1" vertex3="Sil26_v0"/>
+      <triangular vertex1="Sil26_v7" vertex2="Sil26_v8" vertex3="Sil26_v9"/>
+      <triangular vertex1="Sil26_v10" vertex2="Sil26_v6" vertex3="Sil26_v11"/>
+      <triangular vertex1="Sil26_v12" vertex2="Sil26_v13" vertex3="Sil26_v1"/>
+      <triangular vertex1="Sil26_v14" vertex2="Sil26_v1" vertex3="Sil26_v6"/>
+      <triangular vertex1="Sil26_v15" vertex2="Sil26_v16" vertex3="Sil26_v17"/>
+      <triangular vertex1="Sil26_v18" vertex2="Sil26_v19" vertex3="Sil26_v20"/>
+      <triangular vertex1="Sil26_v21" vertex2="Sil26_v22" vertex3="Sil26_v23"/>
+      <triangular vertex1="Sil26_v24" vertex2="Sil26_v25" vertex3="Sil26_v26"/>
+      <triangular vertex1="Sil26_v27" vertex2="Sil26_v28" vertex3="Sil26_v29"/>
+      <triangular vertex1="Sil26_v30" vertex2="Sil26_v31" vertex3="Sil26_v32"/>
+      <triangular vertex1="Sil26_v33" vertex2="Sil26_v34" vertex3="Sil26_v35"/>
+      <triangular vertex1="Sil26_v0" vertex2="Sil26_v36" vertex3="Sil26_v37"/>
+      <triangular vertex1="Sil26_v0" vertex2="Sil26_v38" vertex3="Sil26_v39"/>
+      <triangular vertex1="Sil26_v1" vertex2="Sil26_v40" vertex3="Sil26_v41"/>
+      <triangular vertex1="Sil26_v1" vertex2="Sil26_v42" vertex3="Sil26_v43"/>
+      <triangular vertex1="Sil26_v6" vertex2="Sil26_v0" vertex3="Sil26_v44"/>
+      <triangular vertex1="Sil26_v6" vertex2="Sil26_v45" vertex3="Sil26_v46"/>
+      <triangular vertex1="Sil26_v47" vertex2="Sil26_v1" vertex3="Sil26_v48"/>
+      <triangular vertex1="Sil26_v49" vertex2="Sil26_v50" vertex3="Sil26_v51"/>
+      <triangular vertex1="Sil26_v52" vertex2="Sil26_v6" vertex3="Sil26_v53"/>
+      <triangular vertex1="Sil26_v54" vertex2="Sil26_v55" vertex3="Sil26_v56"/>
+      <triangular vertex1="Sil26_v57" vertex2="Sil26_v58" vertex3="Sil26_v59"/>
+      <triangular vertex1="Sil26_v60" vertex2="Sil26_v61" vertex3="Sil26_v62"/>
+      <triangular vertex1="Sil26_v63" vertex2="Sil26_v64" vertex3="Sil26_v65"/>
+      <triangular vertex1="Sil26_v66" vertex2="Sil26_v67" vertex3="Sil26_v68"/>
+      <triangular vertex1="Sil26_v69" vertex2="Sil26_v70" vertex3="Sil26_v71"/>
+      <triangular vertex1="Sil26_v72" vertex2="Sil26_v73" vertex3="Sil26_v74"/>
+      <triangular vertex1="Sil26_v75" vertex2="Sil26_v76" vertex3="Sil26_v77"/>
+      <triangular vertex1="Sil26_v78" vertex2="Sil26_v79" vertex3="Sil26_v80"/>
+    </tessellated>
+    <box lunit="mm" name="world_solid0xef2760" x="1000" y="1000" z="1000"/>
+  </solids>
+
+  <structure>
+    <volume name="Sil26">
+      <materialref ref="G4_WATER0xeedf70"/>
+      <solidref ref="Sil260xf007e0"/>
+    </volume>
+  </structure>
+
+  <setup name="Default" version="1.0">
+    <world ref="Sil26"/>
+  </setup>
+
+</gdml>

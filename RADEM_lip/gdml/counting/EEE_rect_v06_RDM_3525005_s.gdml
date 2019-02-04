@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+  <define>
+    <position name="EEE_rect_v06_RDM_3525005_s_v0" unit="mm" x="-280.580001831055" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v1" unit="mm" x="-280.580001831055" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v2" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v3" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v4" unit="mm" x="-284.480003356934" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v5" unit="mm" x="-280.580001831055" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v6" unit="mm" x="-284.480003356934" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v7" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v8" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v9" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v10" unit="mm" x="-280.580001831055" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v11" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v12" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v13" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v14" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v15" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v16" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v17" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v18" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v19" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v20" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v21" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v22" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v23" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v24" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v25" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v26" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v27" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v28" unit="mm" x="-280.580001831055" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v29" unit="mm" x="-280.580001831055" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v30" unit="mm" x="-280.580001831055" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v31" unit="mm" x="-280.580001831055" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v32" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v33" unit="mm" x="-280.580001831055" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v34" unit="mm" x="-284.480003356934" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v35" unit="mm" x="-280.580001831055" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v36" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v37" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v38" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v39" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v40" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v41" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v42" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v43" unit="mm" x="-280.580001831055" y="26.6270751953125" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v44" unit="mm" x="-284.480003356934" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v45" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v46" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v47" unit="mm" x="-280.580001831055" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v48" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v49" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v50" unit="mm" x="-280.580001831055" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v51" unit="mm" x="-280.580001831055" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v52" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v53" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v54" unit="mm" x="-284.480003356934" y="26.6270751953125" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v55" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v56" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v57" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v58" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v59" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v60" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v61" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v62" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v63" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v64" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-40.1980667114258"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v65" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v66" unit="mm" x="-280.580001831055" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v67" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v68" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v69" unit="mm" x="-280.580001831055" y="26.6270751953125" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v70" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v71" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v72" unit="mm" x="-280.580001831055" y="22.8270740509033" z="-43.0380668640137"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v73" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v74" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v75" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v76" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v77" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v78" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v79" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v80" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v81" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v82" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v83" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v84" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v85" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v86" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v87" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v88" unit="mm" x="-280.580001831055" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v89" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v90" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v91" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v92" unit="mm" x="-280.580001831055" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v93" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v94" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v95" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v96" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v97" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v98" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v99" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v100" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v101" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v102" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-38.2430686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v103" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v104" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v105" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v106" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v107" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v108" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v109" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v110" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v111" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v112" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v113" unit="mm" x="-279.879997253418" y="21.9770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v114" unit="mm" x="-279.879997253418" y="27.4770736694336" z="-44.9930686950684"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v115" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v116" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v117" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v118" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v119" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v120" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v121" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v122" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v123" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v124" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v125" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v126" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v127" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v128" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v129" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v130" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v131" unit="mm" x="-279.879997253418" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v132" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v133" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v134" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v135" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v136" unit="mm" x="-279.879997253418" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v137" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v138" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v139" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v140" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v141" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v142" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-42.888069152832"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v143" unit="mm" x="-277.540000915527" y="26.4770736694336" z="-40.3480682373047"/>
+    <position name="EEE_rect_v06_RDM_3525005_s_v144" unit="mm" x="-277.540000915527" y="22.9770736694336" z="-40.3480682373047"/>
+  </define>
+
+  <materials>
+    <isotope N="1" Z="1" name="H10x1e43110">
+      <atom unit="g/mole" value="1.00782503081372"/>
+    </isotope>
+    <isotope N="2" Z="1" name="H20x1e43180">
+      <atom unit="g/mole" value="2.01410199966617"/>
+    </isotope>
+    <element name="H0x1e46400">
+      <fraction n="0.999885" ref="H10x1e43110"/>
+      <fraction n="0.000115" ref="H20x1e43180"/>
+    </element>
+    <isotope N="16" Z="8" name="O160x1e3b2a0">
+      <atom unit="g/mole" value="15.9949"/>
+    </isotope>
+    <isotope N="17" Z="8" name="O170x1e3b690">
+      <atom unit="g/mole" value="16.9991"/>
+    </isotope>
+    <isotope N="18" Z="8" name="O180x1e3b720">
+      <atom unit="g/mole" value="17.9992"/>
+    </isotope>
+    <element name="O0x1e3b410">
+      <fraction n="0.99757" ref="O160x1e3b2a0"/>
+      <fraction n="0.00038" ref="O170x1e3b690"/>
+      <fraction n="0.00205" ref="O180x1e3b720"/>
+    </element>
+    <material name="G4_WATER0x1e42fe0" state="solid">
+      <MEE unit="eV" value="78"/>
+      <D unit="g/cm3" value="1"/>
+      <fraction n="0.111898477841067" ref="H0x1e46400"/>
+      <fraction n="0.888101522158933" ref="O0x1e3b410"/>
+    </material>
+    <isotope N="12" Z="6" name="C120x1e3abb0">
+      <atom unit="g/mole" value="12"/>
+    </isotope>
+    <isotope N="13" Z="6" name="C130x1e34c00">
+      <atom unit="g/mole" value="13.0034"/>
+    </isotope>
+    <element name="C0x1e3a900">
+      <fraction n="0.9893" ref="C120x1e3abb0"/>
+      <fraction n="0.0107" ref="C130x1e34c00"/>
+    </element>
+    <isotope N="14" Z="7" name="N140x1e3b310">
+      <atom unit="g/mole" value="14.0031"/>
+    </isotope>
+    <isotope N="15" Z="7" name="N150x1e3b3b0">
+      <atom unit="g/mole" value="15.0001"/>
+    </isotope>
+    <element name="N0x1e3b0b0">
+      <fraction n="0.99632" ref="N140x1e3b310"/>
+      <fraction n="0.00368" ref="N150x1e3b3b0"/>
+    </element>
+    <isotope N="36" Z="18" name="Ar360x1e3b5c0">
+      <atom unit="g/mole" value="35.9675"/>
+    </isotope>
+    <isotope N="38" Z="18" name="Ar380x1e3b9f0">
+      <atom unit="g/mole" value="37.9627"/>
+    </isotope>
+    <isotope N="40" Z="18" name="Ar400x1e3baf0">
+      <atom unit="g/mole" value="39.9624"/>
+    </isotope>
+    <element name="Ar0x1e3b790">
+      <fraction n="0.003365" ref="Ar360x1e3b5c0"/>
+      <fraction n="0.000632" ref="Ar380x1e3b9f0"/>
+      <fraction n="0.996003" ref="Ar400x1e3baf0"/>
+    </element>
+    <material name="G4_AIR0x1e3aa40" state="gas">
+      <MEE unit="eV" value="85.7"/>
+      <D unit="g/cm3" value="0.00120479"/>
+      <fraction n="0.000124000124000124" ref="C0x1e3a900"/>
+      <fraction n="0.755267755267755" ref="N0x1e3b0b0"/>
+      <fraction n="0.231781231781232" ref="O0x1e3b410"/>
+      <fraction n="0.0128270128270128" ref="Ar0x1e3b790"/>
+    </material>
+  </materials>
+
+  <solids>
+    <tessellated aunit="deg" lunit="mm" name="EEE_rect_v06_RDM_3525005_s0x1e54100">
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v0" vertex2="EEE_rect_v06_RDM_3525005_s_v1" vertex3="EEE_rect_v06_RDM_3525005_s_v2"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v3" vertex2="EEE_rect_v06_RDM_3525005_s_v1" vertex3="EEE_rect_v06_RDM_3525005_s_v4"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v1" vertex2="EEE_rect_v06_RDM_3525005_s_v5" vertex3="EEE_rect_v06_RDM_3525005_s_v6"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v4" vertex2="EEE_rect_v06_RDM_3525005_s_v1" vertex3="EEE_rect_v06_RDM_3525005_s_v6"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v7" vertex2="EEE_rect_v06_RDM_3525005_s_v8" vertex3="EEE_rect_v06_RDM_3525005_s_v0"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v9" vertex2="EEE_rect_v06_RDM_3525005_s_v10" vertex3="EEE_rect_v06_RDM_3525005_s_v0"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v11" vertex2="EEE_rect_v06_RDM_3525005_s_v12" vertex3="EEE_rect_v06_RDM_3525005_s_v13"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v14" vertex2="EEE_rect_v06_RDM_3525005_s_v15" vertex3="EEE_rect_v06_RDM_3525005_s_v16"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v17" vertex2="EEE_rect_v06_RDM_3525005_s_v4" vertex3="EEE_rect_v06_RDM_3525005_s_v18"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v19" vertex2="EEE_rect_v06_RDM_3525005_s_v20" vertex3="EEE_rect_v06_RDM_3525005_s_v21"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v22" vertex2="EEE_rect_v06_RDM_3525005_s_v4" vertex3="EEE_rect_v06_RDM_3525005_s_v6"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v23" vertex2="EEE_rect_v06_RDM_3525005_s_v6" vertex3="EEE_rect_v06_RDM_3525005_s_v24"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v25" vertex2="EEE_rect_v06_RDM_3525005_s_v6" vertex3="EEE_rect_v06_RDM_3525005_s_v26"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v24" vertex2="EEE_rect_v06_RDM_3525005_s_v6" vertex3="EEE_rect_v06_RDM_3525005_s_v27"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v0" vertex2="EEE_rect_v06_RDM_3525005_s_v28" vertex3="EEE_rect_v06_RDM_3525005_s_v1"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v29" vertex2="EEE_rect_v06_RDM_3525005_s_v30" vertex3="EEE_rect_v06_RDM_3525005_s_v0"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v31" vertex2="EEE_rect_v06_RDM_3525005_s_v32" vertex3="EEE_rect_v06_RDM_3525005_s_v33"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v34" vertex2="EEE_rect_v06_RDM_3525005_s_v6" vertex3="EEE_rect_v06_RDM_3525005_s_v35"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v36" vertex2="EEE_rect_v06_RDM_3525005_s_v37" vertex3="EEE_rect_v06_RDM_3525005_s_v38"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v24" vertex2="EEE_rect_v06_RDM_3525005_s_v39" vertex3="EEE_rect_v06_RDM_3525005_s_v40"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v41" vertex2="EEE_rect_v06_RDM_3525005_s_v42" vertex3="EEE_rect_v06_RDM_3525005_s_v43"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v44" vertex2="EEE_rect_v06_RDM_3525005_s_v45" vertex3="EEE_rect_v06_RDM_3525005_s_v46"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v47" vertex2="EEE_rect_v06_RDM_3525005_s_v24" vertex3="EEE_rect_v06_RDM_3525005_s_v48"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v49" vertex2="EEE_rect_v06_RDM_3525005_s_v24" vertex3="EEE_rect_v06_RDM_3525005_s_v50"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v43" vertex2="EEE_rect_v06_RDM_3525005_s_v51" vertex3="EEE_rect_v06_RDM_3525005_s_v52"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v43" vertex2="EEE_rect_v06_RDM_3525005_s_v53" vertex3="EEE_rect_v06_RDM_3525005_s_v54"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v55" vertex2="EEE_rect_v06_RDM_3525005_s_v56" vertex3="EEE_rect_v06_RDM_3525005_s_v57"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v43" vertex2="EEE_rect_v06_RDM_3525005_s_v58" vertex3="EEE_rect_v06_RDM_3525005_s_v55"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v59" vertex2="EEE_rect_v06_RDM_3525005_s_v60" vertex3="EEE_rect_v06_RDM_3525005_s_v61"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v62" vertex2="EEE_rect_v06_RDM_3525005_s_v63" vertex3="EEE_rect_v06_RDM_3525005_s_v64"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v65" vertex2="EEE_rect_v06_RDM_3525005_s_v66" vertex3="EEE_rect_v06_RDM_3525005_s_v43"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v67" vertex2="EEE_rect_v06_RDM_3525005_s_v68" vertex3="EEE_rect_v06_RDM_3525005_s_v69"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v70" vertex2="EEE_rect_v06_RDM_3525005_s_v71" vertex3="EEE_rect_v06_RDM_3525005_s_v72"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v73" vertex2="EEE_rect_v06_RDM_3525005_s_v43" vertex3="EEE_rect_v06_RDM_3525005_s_v55"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v74" vertex2="EEE_rect_v06_RDM_3525005_s_v75" vertex3="EEE_rect_v06_RDM_3525005_s_v76"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v77" vertex2="EEE_rect_v06_RDM_3525005_s_v78" vertex3="EEE_rect_v06_RDM_3525005_s_v79"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v55" vertex2="EEE_rect_v06_RDM_3525005_s_v80" vertex3="EEE_rect_v06_RDM_3525005_s_v81"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v82" vertex2="EEE_rect_v06_RDM_3525005_s_v55" vertex3="EEE_rect_v06_RDM_3525005_s_v83"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v84" vertex2="EEE_rect_v06_RDM_3525005_s_v85" vertex3="EEE_rect_v06_RDM_3525005_s_v86"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v87" vertex2="EEE_rect_v06_RDM_3525005_s_v88" vertex3="EEE_rect_v06_RDM_3525005_s_v89"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v55" vertex2="EEE_rect_v06_RDM_3525005_s_v82" vertex3="EEE_rect_v06_RDM_3525005_s_v90"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v55" vertex2="EEE_rect_v06_RDM_3525005_s_v91" vertex3="EEE_rect_v06_RDM_3525005_s_v92"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v82" vertex2="EEE_rect_v06_RDM_3525005_s_v93" vertex3="EEE_rect_v06_RDM_3525005_s_v94"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v95" vertex2="EEE_rect_v06_RDM_3525005_s_v96" vertex3="EEE_rect_v06_RDM_3525005_s_v97"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v98" vertex2="EEE_rect_v06_RDM_3525005_s_v99" vertex3="EEE_rect_v06_RDM_3525005_s_v100"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v101" vertex2="EEE_rect_v06_RDM_3525005_s_v102" vertex3="EEE_rect_v06_RDM_3525005_s_v103"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v104" vertex2="EEE_rect_v06_RDM_3525005_s_v105" vertex3="EEE_rect_v06_RDM_3525005_s_v106"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v107" vertex2="EEE_rect_v06_RDM_3525005_s_v108" vertex3="EEE_rect_v06_RDM_3525005_s_v109"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v82" vertex2="EEE_rect_v06_RDM_3525005_s_v110" vertex3="EEE_rect_v06_RDM_3525005_s_v111"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v112" vertex2="EEE_rect_v06_RDM_3525005_s_v113" vertex3="EEE_rect_v06_RDM_3525005_s_v114"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v115" vertex2="EEE_rect_v06_RDM_3525005_s_v116" vertex3="EEE_rect_v06_RDM_3525005_s_v117"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v118" vertex2="EEE_rect_v06_RDM_3525005_s_v119" vertex3="EEE_rect_v06_RDM_3525005_s_v120"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v121" vertex2="EEE_rect_v06_RDM_3525005_s_v122" vertex3="EEE_rect_v06_RDM_3525005_s_v123"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v124" vertex2="EEE_rect_v06_RDM_3525005_s_v125" vertex3="EEE_rect_v06_RDM_3525005_s_v126"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v127" vertex2="EEE_rect_v06_RDM_3525005_s_v128" vertex3="EEE_rect_v06_RDM_3525005_s_v129"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v130" vertex2="EEE_rect_v06_RDM_3525005_s_v131" vertex3="EEE_rect_v06_RDM_3525005_s_v132"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v133" vertex2="EEE_rect_v06_RDM_3525005_s_v134" vertex3="EEE_rect_v06_RDM_3525005_s_v135"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v136" vertex2="EEE_rect_v06_RDM_3525005_s_v137" vertex3="EEE_rect_v06_RDM_3525005_s_v138"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v139" vertex2="EEE_rect_v06_RDM_3525005_s_v140" vertex3="EEE_rect_v06_RDM_3525005_s_v141"/>
+      <triangular vertex1="EEE_rect_v06_RDM_3525005_s_v142" vertex2="EEE_rect_v06_RDM_3525005_s_v143" vertex3="EEE_rect_v06_RDM_3525005_s_v144"/>
+    </tessellated>
+    <box lunit="mm" name="world_solid0x1e477d0" x="1000" y="1000" z="1000"/>
+  </solids>
+
+  <structure>
+    <volume name="EEE_rect_v06_RDM_3525005_s">
+      <materialref ref="G4_WATER0x1e42fe0"/>
+      <solidref ref="EEE_rect_v06_RDM_3525005_s0x1e54100"/>
+    </volume>
+  </structure>
+
+  <setup name="Default" version="1.0">
+    <world ref="EEE_rect_v06_RDM_3525005_s"/>
+  </setup>
+
+</gdml>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+  <define>
+    <position name="Sil_82_v0" unit="mm" x="-187.033363342285" y="80.9599990844727" z="-4.75616645812988"/>
+    <position name="Sil_82_v1" unit="mm" x="-186.83057308197" y="80.9599990844727" z="-5.04578018188477"/>
+    <position name="Sil_82_v2" unit="mm" x="-186.74374961853" y="80.9599990844727" z="-4.55337619781494"/>
+    <position name="Sil_82_v3" unit="mm" x="-187.236152648926" y="80.9599990844727" z="-4.46655225753784"/>
+    <position name="Sil_82_v4" unit="mm" x="-187.236152648926" y="80.9599990844727" z="-4.46655225753784"/>
+    <position name="Sil_82_v5" unit="mm" x="-187.32297706604" y="80.9599990844727" z="-4.95895624160767"/>
+    <position name="Sil_82_v6" unit="mm" x="-186.83057308197" y="80.9599990844727" z="-5.04578018188477"/>
+    <position name="Sil_82_v7" unit="mm" x="-187.236152648926" y="81" z="-4.46655225753784"/>
+    <position name="Sil_82_v8" unit="mm" x="-187.236152648926" y="80.9599990844727" z="-4.46655225753784"/>
+    <position name="Sil_82_v9" unit="mm" x="-186.74374961853" y="81" z="-4.55337619781494"/>
+    <position name="Sil_82_v10" unit="mm" x="-187.236152648926" y="81" z="-4.46655225753784"/>
+    <position name="Sil_82_v11" unit="mm" x="-187.236152648926" y="80.9599990844727" z="-4.46655225753784"/>
+    <position name="Sil_82_v12" unit="mm" x="-187.32297706604" y="81" z="-4.95895624160767"/>
+    <position name="Sil_82_v13" unit="mm" x="-187.236152648926" y="81" z="-4.46655225753784"/>
+    <position name="Sil_82_v14" unit="mm" x="-187.32297706604" y="81" z="-4.95895624160767"/>
+    <position name="Sil_82_v15" unit="mm" x="-187.236152648926" y="80.9599990844727" z="-4.46655225753784"/>
+    <position name="Sil_82_v16" unit="mm" x="-186.83057308197" y="80.9599990844727" z="-5.04578018188477"/>
+    <position name="Sil_82_v17" unit="mm" x="-186.83057308197" y="81" z="-5.04578018188477"/>
+    <position name="Sil_82_v18" unit="mm" x="-186.83057308197" y="80.9599990844727" z="-5.04578018188477"/>
+    <position name="Sil_82_v19" unit="mm" x="-186.83057308197" y="81" z="-5.04578018188477"/>
+    <position name="Sil_82_v20" unit="mm" x="-186.83057308197" y="80.9599990844727" z="-5.04578018188477"/>
+    <position name="Sil_82_v21" unit="mm" x="-187.32297706604" y="81" z="-4.95895624160767"/>
+    <position name="Sil_82_v22" unit="mm" x="-186.83057308197" y="81" z="-5.04578018188477"/>
+    <position name="Sil_82_v23" unit="mm" x="-187.236152648926" y="81" z="-4.46655225753784"/>
+    <position name="Sil_82_v24" unit="mm" x="-187.033363342285" y="81" z="-4.75616645812988"/>
+    <position name="Sil_82_v25" unit="mm" x="-186.83057308197" y="81" z="-5.04578018188477"/>
+    <position name="Sil_82_v26" unit="mm" x="-187.033363342285" y="81" z="-4.75616645812988"/>
+    <position name="Sil_82_v27" unit="mm" x="-186.83057308197" y="81" z="-5.04578018188477"/>
+    <position name="Sil_82_v28" unit="mm" x="-187.32297706604" y="81" z="-4.95895624160767"/>
+    <position name="Sil_82_v29" unit="mm" x="-187.033363342285" y="81" z="-4.75616645812988"/>
+    <position name="Sil_82_v30" unit="mm" x="-187.32297706604" y="81" z="-4.95895624160767"/>
+    <position name="Sil_82_v31" unit="mm" x="-187.236152648926" y="81" z="-4.46655225753784"/>
+    <position name="Sil_82_v32" unit="mm" x="-187.033363342285" y="81" z="-4.75616645812988"/>
+  </define>
+
+  <materials>
+    <isotope N="1" Z="1" name="H10x18390a0">
+      <atom unit="g/mole" value="1.00782503081372"/>
+    </isotope>
+    <isotope N="2" Z="1" name="H20x1839110">
+      <atom unit="g/mole" value="2.01410199966617"/>
+    </isotope>
+    <element name="H0x183c390">
+      <fraction n="0.999885" ref="H10x18390a0"/>
+      <fraction n="0.000115" ref="H20x1839110"/>
+    </element>
+    <isotope N="16" Z="8" name="O160x1831220">
+      <atom unit="g/mole" value="15.9949"/>
+    </isotope>
+    <isotope N="17" Z="8" name="O170x1831620">
+      <atom unit="g/mole" value="16.9991"/>
+    </isotope>
+    <isotope N="18" Z="8" name="O180x18316b0">
+      <atom unit="g/mole" value="17.9992"/>
+    </isotope>
+    <element name="O0x18313a0">
+      <fraction n="0.99757" ref="O160x1831220"/>
+      <fraction n="0.00038" ref="O170x1831620"/>
+      <fraction n="0.00205" ref="O180x18316b0"/>
+    </element>
+    <material name="G4_WATER0x1838f70" state="solid">
+      <MEE unit="eV" value="78"/>
+      <D unit="g/cm3" value="1"/>
+      <fraction n="0.111898477841067" ref="H0x183c390"/>
+      <fraction n="0.888101522158933" ref="O0x18313a0"/>
+    </material>
+    <isotope N="12" Z="6" name="C120x182c880">
+      <atom unit="g/mole" value="12"/>
+    </isotope>
+    <isotope N="13" Z="6" name="C130x182ca80">
+      <atom unit="g/mole" value="13.0034"/>
+    </isotope>
+    <element name="C0x182ac30">
+      <fraction n="0.9893" ref="C120x182c880"/>
+      <fraction n="0.0107" ref="C130x182ca80"/>
+    </element>
+    <isotope N="14" Z="7" name="N140x18312a0">
+      <atom unit="g/mole" value="14.0031"/>
+    </isotope>
+    <isotope N="15" Z="7" name="N150x1831340">
+      <atom unit="g/mole" value="15.0001"/>
+    </isotope>
+    <element name="N0x1831040">
+      <fraction n="0.99632" ref="N140x18312a0"/>
+      <fraction n="0.00368" ref="N150x1831340"/>
+    </element>
+    <isotope N="36" Z="18" name="Ar360x1831550">
+      <atom unit="g/mole" value="35.9675"/>
+    </isotope>
+    <isotope N="38" Z="18" name="Ar380x1831980">
+      <atom unit="g/mole" value="37.9627"/>
+    </isotope>
+    <isotope N="40" Z="18" name="Ar400x1831a80">
+      <atom unit="g/mole" value="39.9624"/>
+    </isotope>
+    <element name="Ar0x1831720">
+      <fraction n="0.003365" ref="Ar360x1831550"/>
+      <fraction n="0.000632" ref="Ar380x1831980"/>
+      <fraction n="0.996003" ref="Ar400x1831a80"/>
+    </element>
+    <material name="G4_AIR0x1830e70" state="gas">
+      <MEE unit="eV" value="85.7"/>
+      <D unit="g/cm3" value="0.00120479"/>
+      <fraction n="0.000124000124000124" ref="C0x182ac30"/>
+      <fraction n="0.755267755267755" ref="N0x1831040"/>
+      <fraction n="0.231781231781232" ref="O0x18313a0"/>
+      <fraction n="0.0128270128270128" ref="Ar0x1831720"/>
+    </material>
+  </materials>
+
+  <solids>
+    <tessellated aunit="deg" lunit="mm" name="Sil_820x184a110">
+      <triangular vertex1="Sil_82_v0" vertex2="Sil_82_v1" vertex3="Sil_82_v2"/>
+      <triangular vertex1="Sil_82_v0" vertex2="Sil_82_v2" vertex3="Sil_82_v3"/>
+      <triangular vertex1="Sil_82_v0" vertex2="Sil_82_v4" vertex3="Sil_82_v5"/>
+      <triangular vertex1="Sil_82_v0" vertex2="Sil_82_v5" vertex3="Sil_82_v6"/>
+      <triangular vertex1="Sil_82_v2" vertex2="Sil_82_v7" vertex3="Sil_82_v8"/>
+      <triangular vertex1="Sil_82_v9" vertex2="Sil_82_v10" vertex3="Sil_82_v2"/>
+      <triangular vertex1="Sil_82_v11" vertex2="Sil_82_v12" vertex3="Sil_82_v5"/>
+      <triangular vertex1="Sil_82_v13" vertex2="Sil_82_v14" vertex3="Sil_82_v15"/>
+      <triangular vertex1="Sil_82_v16" vertex2="Sil_82_v9" vertex3="Sil_82_v2"/>
+      <triangular vertex1="Sil_82_v17" vertex2="Sil_82_v9" vertex3="Sil_82_v18"/>
+      <triangular vertex1="Sil_82_v5" vertex2="Sil_82_v19" vertex3="Sil_82_v20"/>
+      <triangular vertex1="Sil_82_v21" vertex2="Sil_82_v22" vertex3="Sil_82_v5"/>
+      <triangular vertex1="Sil_82_v23" vertex2="Sil_82_v9" vertex3="Sil_82_v24"/>
+      <triangular vertex1="Sil_82_v9" vertex2="Sil_82_v25" vertex3="Sil_82_v26"/>
+      <triangular vertex1="Sil_82_v27" vertex2="Sil_82_v28" vertex3="Sil_82_v29"/>
+      <triangular vertex1="Sil_82_v30" vertex2="Sil_82_v31" vertex3="Sil_82_v32"/>
+    </tessellated>
+    <box lunit="mm" name="world_solid0x183d760" x="1000" y="1000" z="1000"/>
+  </solids>
+
+  <structure>
+    <volume name="Sil_82">
+      <materialref ref="G4_WATER0x1838f70"/>
+      <solidref ref="Sil_820x184a110"/>
+    </volume>
+  </structure>
+
+  <setup name="Default" version="1.0">
+    <world ref="Sil_82"/>
+  </setup>
+
+</gdml>

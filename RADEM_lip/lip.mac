@@ -1,0 +1,96 @@
+
+/analysis/bookHist true
+/analysis/bookTree true
+/analysis/storeTrack true
+
+/analysis/addSD Sil1
+/analysis/addSD Sil2
+/analysis/addSD Sil3
+/analysis/addSD Sil4
+/analysis/addSD Sil5
+/analysis/addSD Sil6
+/analysis/addSD Sil7
+/analysis/addSD Sil8
+/analysis/addSD Sil9
+/analysis/addSD Sil10
+/analysis/addSD Sil11
+/analysis/addSD Sil12
+/analysis/addSD Sil13
+/analysis/addSD Sil14
+/analysis/addSD Sil15
+/analysis/addSD Sil16
+/analysis/addSD Sil17
+/analysis/addSD Sil18
+/analysis/addSD Sil19
+/analysis/addSD Sil20
+/analysis/addSD Sil21
+/analysis/addSD Sil22
+/analysis/addSD Sil23
+/analysis/addSD Sil24
+/analysis/addSD Sil25
+/analysis/addSD Sil26
+/analysis/addSD Sil27
+/analysis/addSD Sil28
+/analysis/addSD Sil29
+/analysis/addSD Sil30
+/analysis/addSD Sil31
+/analysis/addSD Sil32
+/analysis/addSD Sil33
+/analysis/addSD Sil34
+/analysis/addSD Sil35
+/analysis/addSD Sil36
+/analysis/addSD Sil37
+/analysis/addSD Sil38
+/analysis/addSD Sil39
+/analysis/addSD Sil40
+/analysis/addSD Sil41
+/analysis/addSD Sil42
+/analysis/addSD Sil43
+/analysis/addSD Sil44
+/analysis/addSD Sil45
+/analysis/addSD Sil46
+/analysis/addSD Sil47
+/analysis/addSD Sil48
+/analysis/addSD Sil49
+
+/run/initialize
+/vis/scene/create
+/vis/open OGLSQt
+#/vis/open VRML2FILE
+/vis/viewer/set/autoRefresh false
+/vis/verbose errors
+/vis/drawVolume
+/vis/viewer/set/viewpointThetaPhi 40 40.
+# Draw coordinate axes:
+/vis/scene/add/axes 0 0 0 20 mm
+# Draw smooth trajectories at end of event, showing trajectory points
+# as markers 2 pixels wide:
+/vis/scene/add/trajectories smooth
+/vis/modeling/trajectories/create/drawByCharge
+# Draw hits at end of event:
+/vis/scene/add/hits
+/vis/modeling/trajectories/create/drawByParticleID
+/vis/modeling/trajectories/drawByParticleID-0/default/setDrawStepPts true
+/vis/scene/endOfEventAction refresh
+/vis/viewer/set/autoRefresh true
+/vis/verbose warnings
+
+
+
+/gps/particle  e- 
+/gps/energy 5 MeV
+#/gps/pos/type Beam
+#/gps/pos/shape Circle
+#/gps/pos/centre 0 0 0 mm
+#x, z,y
+/gps/position 14 43 100. mm
+/gps/direction 0 0 -1 
+
+#/gps/pos/sigma_x 1 mm
+#/gps/pos/sigma_y 1 mm
+#/gps/pos/rot1 1 0 0
+#/gps/pos/rot2 0 0 -1
+#/gps/ang/type iso
+
+/run/beamOn 2
+

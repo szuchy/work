@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+  <define>
+    <position name="Sil49_v0" unit="mm" x="-216.7275390625" y="80.6900024414062" z="2.32044553756714"/>
+    <position name="Sil49_v1" unit="mm" x="-216.406145095825" y="81.0100021362305" z="1.93742322921753"/>
+    <position name="Sil49_v2" unit="mm" x="-216.406145095825" y="80.6900024414062" z="1.93742322921753"/>
+    <position name="Sil49_v3" unit="mm" x="-216.7275390625" y="81.0100021362305" z="2.32044553756714"/>
+    <position name="Sil49_v4" unit="mm" x="-215.549000740051" y="80.6900024414062" z="2.68962597846985"/>
+    <position name="Sil49_v5" unit="mm" x="-216.064125061035" y="80.6900024414062" z="2.87711596488953"/>
+    <position name="Sil49_v6" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v7" unit="mm" x="-216.064125061035" y="80.6900024414062" z="2.87711596488953"/>
+    <position name="Sil49_v8" unit="mm" x="-216.556528091431" y="80.6900024414062" z="2.79029202461243"/>
+    <position name="Sil49_v9" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v10" unit="mm" x="-216.556528091431" y="80.6900024414062" z="2.79029202461243"/>
+    <position name="Sil49_v11" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v12" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v13" unit="mm" x="-215.891020774841" y="80.6900024414062" z="1.74993336200714"/>
+    <position name="Sil49_v14" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v15" unit="mm" x="-215.891020774841" y="80.6900024414062" z="1.74993336200714"/>
+    <position name="Sil49_v16" unit="mm" x="-215.398616790771" y="80.6900024414062" z="1.83675730228424"/>
+    <position name="Sil49_v17" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v18" unit="mm" x="-215.398616790771" y="80.6900024414062" z="1.83675730228424"/>
+    <position name="Sil49_v19" unit="mm" x="-215.227606773376" y="80.6900024414062" z="2.30660367012024"/>
+    <position name="Sil49_v20" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v21" unit="mm" x="-215.227606773376" y="80.6900024414062" z="2.30660367012024"/>
+    <position name="Sil49_v22" unit="mm" x="-215.549000740051" y="80.6900024414062" z="2.68962597846985"/>
+    <position name="Sil49_v23" unit="mm" x="-215.977572441101" y="80.6900024414062" z="2.3135244846344"/>
+    <position name="Sil49_v24" unit="mm" x="-216.556528091431" y="81.0100021362305" z="2.79029202461243"/>
+    <position name="Sil49_v25" unit="mm" x="-216.7275390625" y="81.0100021362305" z="2.32044553756714"/>
+    <position name="Sil49_v26" unit="mm" x="-216.556528091431" y="81.0100021362305" z="2.79029202461243"/>
+    <position name="Sil49_v27" unit="mm" x="-216.556528091431" y="80.6900024414062" z="2.79029202461243"/>
+    <position name="Sil49_v28" unit="mm" x="-215.891020774841" y="81.0100021362305" z="1.74993336200714"/>
+    <position name="Sil49_v29" unit="mm" x="-215.891020774841" y="80.6900024414062" z="1.74993336200714"/>
+    <position name="Sil49_v30" unit="mm" x="-215.891020774841" y="81.0100021362305" z="1.74993336200714"/>
+    <position name="Sil49_v31" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v32" unit="mm" x="-216.556528091431" y="81.0100021362305" z="2.79029202461243"/>
+    <position name="Sil49_v33" unit="mm" x="-216.064125061035" y="81.0100021362305" z="2.87711596488953"/>
+    <position name="Sil49_v34" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v35" unit="mm" x="-215.549000740051" y="81.0100021362305" z="2.68962597846985"/>
+    <position name="Sil49_v36" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v37" unit="mm" x="-215.549000740051" y="81.0100021362305" z="2.68962597846985"/>
+    <position name="Sil49_v38" unit="mm" x="-215.227606773376" y="81.0100021362305" z="2.30660367012024"/>
+    <position name="Sil49_v39" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v40" unit="mm" x="-215.227606773376" y="81.0100021362305" z="2.30660367012024"/>
+    <position name="Sil49_v41" unit="mm" x="-215.398616790771" y="81.0100021362305" z="1.83675730228424"/>
+    <position name="Sil49_v42" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v43" unit="mm" x="-215.398616790771" y="81.0100021362305" z="1.83675730228424"/>
+    <position name="Sil49_v44" unit="mm" x="-215.891020774841" y="81.0100021362305" z="1.74993336200714"/>
+    <position name="Sil49_v45" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v46" unit="mm" x="-215.891020774841" y="81.0100021362305" z="1.74993336200714"/>
+    <position name="Sil49_v47" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v48" unit="mm" x="-216.7275390625" y="81.0100021362305" z="2.32044553756714"/>
+    <position name="Sil49_v49" unit="mm" x="-215.977572441101" y="81.0100021362305" z="2.3135244846344"/>
+    <position name="Sil49_v50" unit="mm" x="-216.7275390625" y="81.0100021362305" z="2.32044553756714"/>
+    <position name="Sil49_v51" unit="mm" x="-216.556528091431" y="81.0100021362305" z="2.79029202461243"/>
+    <position name="Sil49_v52" unit="mm" x="-215.227606773376" y="80.6900024414062" z="2.30660367012024"/>
+    <position name="Sil49_v53" unit="mm" x="-215.549000740051" y="81.0100021362305" z="2.68962597846985"/>
+    <position name="Sil49_v54" unit="mm" x="-215.549000740051" y="80.6900024414062" z="2.68962597846985"/>
+    <position name="Sil49_v55" unit="mm" x="-215.227606773376" y="81.0100021362305" z="2.30660367012024"/>
+    <position name="Sil49_v56" unit="mm" x="-215.549000740051" y="81.0100021362305" z="2.68962597846985"/>
+    <position name="Sil49_v57" unit="mm" x="-215.227606773376" y="80.6900024414062" z="2.30660367012024"/>
+    <position name="Sil49_v58" unit="mm" x="-216.556528091431" y="81.0100021362305" z="2.79029202461243"/>
+    <position name="Sil49_v59" unit="mm" x="-216.556528091431" y="80.6900024414062" z="2.79029202461243"/>
+    <position name="Sil49_v60" unit="mm" x="-216.556528091431" y="80.6900024414062" z="2.79029202461243"/>
+    <position name="Sil49_v61" unit="mm" x="-216.064125061035" y="80.6900024414062" z="2.87711596488953"/>
+    <position name="Sil49_v62" unit="mm" x="-215.891020774841" y="81.0100021362305" z="1.74993336200714"/>
+    <position name="Sil49_v63" unit="mm" x="-215.398616790771" y="81.0100021362305" z="1.83675730228424"/>
+    <position name="Sil49_v64" unit="mm" x="-215.398616790771" y="80.6900024414062" z="1.83675730228424"/>
+    <position name="Sil49_v65" unit="mm" x="-215.891020774841" y="81.0100021362305" z="1.74993336200714"/>
+    <position name="Sil49_v66" unit="mm" x="-215.398616790771" y="80.6900024414062" z="1.83675730228424"/>
+    <position name="Sil49_v67" unit="mm" x="-215.891020774841" y="80.6900024414062" z="1.74993336200714"/>
+    <position name="Sil49_v68" unit="mm" x="-215.398616790771" y="80.6900024414062" z="1.83675730228424"/>
+    <position name="Sil49_v69" unit="mm" x="-215.227606773376" y="81.0100021362305" z="2.30660367012024"/>
+    <position name="Sil49_v70" unit="mm" x="-215.227606773376" y="80.6900024414062" z="2.30660367012024"/>
+    <position name="Sil49_v71" unit="mm" x="-215.398616790771" y="81.0100021362305" z="1.83675730228424"/>
+    <position name="Sil49_v72" unit="mm" x="-215.227606773376" y="81.0100021362305" z="2.30660367012024"/>
+    <position name="Sil49_v73" unit="mm" x="-215.398616790771" y="80.6900024414062" z="1.83675730228424"/>
+    <position name="Sil49_v74" unit="mm" x="-215.549000740051" y="81.0100021362305" z="2.68962597846985"/>
+    <position name="Sil49_v75" unit="mm" x="-216.064125061035" y="80.6900024414062" z="2.87711596488953"/>
+    <position name="Sil49_v76" unit="mm" x="-215.549000740051" y="81.0100021362305" z="2.68962597846985"/>
+    <position name="Sil49_v77" unit="mm" x="-216.064125061035" y="80.6900024414062" z="2.87711596488953"/>
+    <position name="Sil49_v78" unit="mm" x="-215.549000740051" y="80.6900024414062" z="2.68962597846985"/>
+  </define>
+
+  <materials>
+    <isotope N="1" Z="1" name="H10x28d40a0">
+      <atom unit="g/mole" value="1.00782503081372"/>
+    </isotope>
+    <isotope N="2" Z="1" name="H20x28d4110">
+      <atom unit="g/mole" value="2.01410199966617"/>
+    </isotope>
+    <element name="H0x28d7390">
+      <fraction n="0.999885" ref="H10x28d40a0"/>
+      <fraction n="0.000115" ref="H20x28d4110"/>
+    </element>
+    <isotope N="16" Z="8" name="O160x28cc220">
+      <atom unit="g/mole" value="15.9949"/>
+    </isotope>
+    <isotope N="17" Z="8" name="O170x28cc620">
+      <atom unit="g/mole" value="16.9991"/>
+    </isotope>
+    <isotope N="18" Z="8" name="O180x28cc6b0">
+      <atom unit="g/mole" value="17.9992"/>
+    </isotope>
+    <element name="O0x28cc3a0">
+      <fraction n="0.99757" ref="O160x28cc220"/>
+      <fraction n="0.00038" ref="O170x28cc620"/>
+      <fraction n="0.00205" ref="O180x28cc6b0"/>
+    </element>
+    <material name="G4_WATER0x28d3f70" state="solid">
+      <MEE unit="eV" value="78"/>
+      <D unit="g/cm3" value="1"/>
+      <fraction n="0.111898477841067" ref="H0x28d7390"/>
+      <fraction n="0.888101522158933" ref="O0x28cc3a0"/>
+    </material>
+    <isotope N="12" Z="6" name="C120x28c7880">
+      <atom unit="g/mole" value="12"/>
+    </isotope>
+    <isotope N="13" Z="6" name="C130x28c7a80">
+      <atom unit="g/mole" value="13.0034"/>
+    </isotope>
+    <element name="C0x28c5c30">
+      <fraction n="0.9893" ref="C120x28c7880"/>
+      <fraction n="0.0107" ref="C130x28c7a80"/>
+    </element>
+    <isotope N="14" Z="7" name="N140x28cc2a0">
+      <atom unit="g/mole" value="14.0031"/>
+    </isotope>
+    <isotope N="15" Z="7" name="N150x28cc340">
+      <atom unit="g/mole" value="15.0001"/>
+    </isotope>
+    <element name="N0x28cc040">
+      <fraction n="0.99632" ref="N140x28cc2a0"/>
+      <fraction n="0.00368" ref="N150x28cc340"/>
+    </element>
+    <isotope N="36" Z="18" name="Ar360x28cc550">
+      <atom unit="g/mole" value="35.9675"/>
+    </isotope>
+    <isotope N="38" Z="18" name="Ar380x28cc980">
+      <atom unit="g/mole" value="37.9627"/>
+    </isotope>
+    <isotope N="40" Z="18" name="Ar400x28cca80">
+      <atom unit="g/mole" value="39.9624"/>
+    </isotope>
+    <element name="Ar0x28cc720">
+      <fraction n="0.003365" ref="Ar360x28cc550"/>
+      <fraction n="0.000632" ref="Ar380x28cc980"/>
+      <fraction n="0.996003" ref="Ar400x28cca80"/>
+    </element>
+    <material name="G4_AIR0x28cbe70" state="gas">
+      <MEE unit="eV" value="85.7"/>
+      <D unit="g/cm3" value="0.00120479"/>
+      <fraction n="0.000124000124000124" ref="C0x28c5c30"/>
+      <fraction n="0.755267755267755" ref="N0x28cc040"/>
+      <fraction n="0.231781231781232" ref="O0x28cc3a0"/>
+      <fraction n="0.0128270128270128" ref="Ar0x28cc720"/>
+    </material>
+  </materials>
+
+  <solids>
+    <tessellated aunit="deg" lunit="mm" name="Sil490x28e67e0">
+      <triangular vertex1="Sil49_v0" vertex2="Sil49_v1" vertex3="Sil49_v2"/>
+      <triangular vertex1="Sil49_v3" vertex2="Sil49_v1" vertex3="Sil49_v0"/>
+      <triangular vertex1="Sil49_v4" vertex2="Sil49_v5" vertex3="Sil49_v6"/>
+      <triangular vertex1="Sil49_v7" vertex2="Sil49_v8" vertex3="Sil49_v9"/>
+      <triangular vertex1="Sil49_v10" vertex2="Sil49_v0" vertex3="Sil49_v11"/>
+      <triangular vertex1="Sil49_v0" vertex2="Sil49_v2" vertex3="Sil49_v12"/>
+      <triangular vertex1="Sil49_v2" vertex2="Sil49_v13" vertex3="Sil49_v14"/>
+      <triangular vertex1="Sil49_v15" vertex2="Sil49_v16" vertex3="Sil49_v17"/>
+      <triangular vertex1="Sil49_v18" vertex2="Sil49_v19" vertex3="Sil49_v20"/>
+      <triangular vertex1="Sil49_v21" vertex2="Sil49_v22" vertex3="Sil49_v23"/>
+      <triangular vertex1="Sil49_v24" vertex2="Sil49_v25" vertex3="Sil49_v0"/>
+      <triangular vertex1="Sil49_v26" vertex2="Sil49_v0" vertex3="Sil49_v27"/>
+      <triangular vertex1="Sil49_v2" vertex2="Sil49_v28" vertex3="Sil49_v29"/>
+      <triangular vertex1="Sil49_v1" vertex2="Sil49_v30" vertex3="Sil49_v2"/>
+      <triangular vertex1="Sil49_v31" vertex2="Sil49_v32" vertex3="Sil49_v33"/>
+      <triangular vertex1="Sil49_v34" vertex2="Sil49_v33" vertex3="Sil49_v35"/>
+      <triangular vertex1="Sil49_v36" vertex2="Sil49_v37" vertex3="Sil49_v38"/>
+      <triangular vertex1="Sil49_v39" vertex2="Sil49_v40" vertex3="Sil49_v41"/>
+      <triangular vertex1="Sil49_v42" vertex2="Sil49_v43" vertex3="Sil49_v44"/>
+      <triangular vertex1="Sil49_v45" vertex2="Sil49_v46" vertex3="Sil49_v1"/>
+      <triangular vertex1="Sil49_v47" vertex2="Sil49_v1" vertex3="Sil49_v48"/>
+      <triangular vertex1="Sil49_v49" vertex2="Sil49_v50" vertex3="Sil49_v51"/>
+      <triangular vertex1="Sil49_v52" vertex2="Sil49_v53" vertex3="Sil49_v54"/>
+      <triangular vertex1="Sil49_v55" vertex2="Sil49_v56" vertex3="Sil49_v57"/>
+      <triangular vertex1="Sil49_v33" vertex2="Sil49_v58" vertex3="Sil49_v59"/>
+      <triangular vertex1="Sil49_v33" vertex2="Sil49_v60" vertex3="Sil49_v61"/>
+      <triangular vertex1="Sil49_v62" vertex2="Sil49_v63" vertex3="Sil49_v64"/>
+      <triangular vertex1="Sil49_v65" vertex2="Sil49_v66" vertex3="Sil49_v67"/>
+      <triangular vertex1="Sil49_v68" vertex2="Sil49_v69" vertex3="Sil49_v70"/>
+      <triangular vertex1="Sil49_v71" vertex2="Sil49_v72" vertex3="Sil49_v73"/>
+      <triangular vertex1="Sil49_v74" vertex2="Sil49_v33" vertex3="Sil49_v75"/>
+      <triangular vertex1="Sil49_v76" vertex2="Sil49_v77" vertex3="Sil49_v78"/>
+    </tessellated>
+    <box lunit="mm" name="world_solid0x28d8760" x="1000" y="1000" z="1000"/>
+  </solids>
+
+  <structure>
+    <volume name="Sil49">
+      <materialref ref="G4_WATER0x28d3f70"/>
+      <solidref ref="Sil490x28e67e0"/>
+    </volume>
+  </structure>
+
+  <setup name="Default" version="1.0">
+    <world ref="Sil49"/>
+  </setup>
+
+</gdml>

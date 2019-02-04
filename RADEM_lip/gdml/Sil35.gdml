@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+  <define>
+    <position name="Sil35_v0" unit="mm" x="-213.775012016296" y="81.0100021362305" z="-7.790855884552"/>
+    <position name="Sil35_v1" unit="mm" x="-214.282194137573" y="81.0100021362305" z="-8.54278373718262"/>
+    <position name="Sil35_v2" unit="mm" x="-214.282194137573" y="80.6900024414062" z="-8.54278373718262"/>
+    <position name="Sil35_v3" unit="mm" x="-213.775012016296" y="80.6900024414062" z="-7.790855884552"/>
+    <position name="Sil35_v4" unit="mm" x="-213.108996391296" y="80.6900024414062" z="-7.23200225830078"/>
+    <position name="Sil35_v5" unit="mm" x="-213.775012016296" y="80.6900024414062" z="-7.790855884552"/>
+    <position name="Sil35_v6" unit="mm" x="-213.108996391296" y="81.0100021362305" z="-7.23200225830078"/>
+    <position name="Sil35_v7" unit="mm" x="-213.108996391296" y="80.6900024414062" z="-7.23200225830078"/>
+    <position name="Sil35_v8" unit="mm" x="-213.960800170898" y="81.0100021362305" z="-8.92580604553223"/>
+    <position name="Sil35_v9" unit="mm" x="-213.960800170898" y="80.6900024414062" z="-8.92580604553223"/>
+    <position name="Sil35_v10" unit="mm" x="-213.960800170898" y="81.0100021362305" z="-8.92580604553223"/>
+    <position name="Sil35_v11" unit="mm" x="-213.132224082947" y="81.0100021362305" z="-8.55690002441406"/>
+    <position name="Sil35_v12" unit="mm" x="-213.960800170898" y="81.0100021362305" z="-8.92580604553223"/>
+    <position name="Sil35_v13" unit="mm" x="-213.960800170898" y="81.0100021362305" z="-8.92580604553223"/>
+    <position name="Sil35_v14" unit="mm" x="-212.280420303345" y="81.0100021362305" z="-6.86309623718262"/>
+    <position name="Sil35_v15" unit="mm" x="-211.95902633667" y="81.0100021362305" z="-7.24611854553223"/>
+    <position name="Sil35_v16" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v17" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v18" unit="mm" x="-213.120610237122" y="81.0100021362305" z="-7.89445114135742"/>
+    <position name="Sil35_v19" unit="mm" x="-213.120610237122" y="81.0100021362305" z="-7.89445114135742"/>
+    <position name="Sil35_v20" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v21" unit="mm" x="-213.132224082947" y="81.0100021362305" z="-8.55690002441406"/>
+    <position name="Sil35_v22" unit="mm" x="-213.120610237122" y="81.0100021362305" z="-7.89445114135742"/>
+    <position name="Sil35_v23" unit="mm" x="-213.132224082947" y="81.0100021362305" z="-8.55690002441406"/>
+    <position name="Sil35_v24" unit="mm" x="-213.120610237122" y="81.0100021362305" z="-7.89445114135742"/>
+    <position name="Sil35_v25" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v26" unit="mm" x="-213.132224082947" y="80.6900024414062" z="-8.55690002441406"/>
+    <position name="Sil35_v27" unit="mm" x="-213.108996391296" y="80.6900024414062" z="-7.23200225830078"/>
+    <position name="Sil35_v28" unit="mm" x="-212.466208457947" y="80.6900024414062" z="-7.99804639816284"/>
+    <position name="Sil35_v29" unit="mm" x="-211.95902633667" y="80.6900024414062" z="-7.24611854553223"/>
+    <position name="Sil35_v30" unit="mm" x="-213.108996391296" y="80.6900024414062" z="-7.23200225830078"/>
+    <position name="Sil35_v31" unit="mm" x="-211.95902633667" y="80.6900024414062" z="-7.24611854553223"/>
+    <position name="Sil35_v32" unit="mm" x="-212.280420303345" y="80.6900024414062" z="-6.86309623718262"/>
+    <position name="Sil35_v33" unit="mm" x="-213.108996391296" y="80.6900024414062" z="-7.23200225830078"/>
+    <position name="Sil35_v34" unit="mm" x="-213.120610237122" y="80.6900024414062" z="-7.89445114135742"/>
+    <position name="Sil35_v35" unit="mm" x="-213.132224082947" y="80.6900024414062" z="-8.55690002441406"/>
+    <position name="Sil35_v36" unit="mm" x="-212.466208457947" y="80.6900024414062" z="-7.99804639816284"/>
+    <position name="Sil35_v37" unit="mm" x="-213.120610237122" y="80.6900024414062" z="-7.89445114135742"/>
+    <position name="Sil35_v38" unit="mm" x="-213.132224082947" y="80.6900024414062" z="-8.55690002441406"/>
+    <position name="Sil35_v39" unit="mm" x="-213.120610237122" y="80.6900024414062" z="-7.89445114135742"/>
+    <position name="Sil35_v40" unit="mm" x="-212.466208457947" y="80.6900024414062" z="-7.99804639816284"/>
+    <position name="Sil35_v41" unit="mm" x="-213.108996391296" y="80.6900024414062" z="-7.23200225830078"/>
+    <position name="Sil35_v42" unit="mm" x="-213.120610237122" y="80.6900024414062" z="-7.89445114135742"/>
+    <position name="Sil35_v43" unit="mm" x="-212.280420303345" y="80.6900024414062" z="-6.86309623718262"/>
+    <position name="Sil35_v44" unit="mm" x="-213.108996391296" y="80.6900024414062" z="-7.23200225830078"/>
+    <position name="Sil35_v45" unit="mm" x="-212.280420303345" y="80.6900024414062" z="-6.86309623718262"/>
+    <position name="Sil35_v46" unit="mm" x="-213.960800170898" y="81.0100021362305" z="-8.92580604553223"/>
+    <position name="Sil35_v47" unit="mm" x="-213.132224082947" y="81.0100021362305" z="-8.55690002441406"/>
+    <position name="Sil35_v48" unit="mm" x="-213.132224082947" y="80.6900024414062" z="-8.55690002441406"/>
+    <position name="Sil35_v49" unit="mm" x="-213.960800170898" y="81.0100021362305" z="-8.92580604553223"/>
+    <position name="Sil35_v50" unit="mm" x="-213.132224082947" y="80.6900024414062" z="-8.55690002441406"/>
+    <position name="Sil35_v51" unit="mm" x="-211.95902633667" y="81.0100021362305" z="-7.24611854553223"/>
+    <position name="Sil35_v52" unit="mm" x="-212.280420303345" y="80.6900024414062" z="-6.86309623718262"/>
+    <position name="Sil35_v53" unit="mm" x="-211.95902633667" y="81.0100021362305" z="-7.24611854553223"/>
+    <position name="Sil35_v54" unit="mm" x="-212.280420303345" y="80.6900024414062" z="-6.86309623718262"/>
+    <position name="Sil35_v55" unit="mm" x="-211.95902633667" y="80.6900024414062" z="-7.24611854553223"/>
+    <position name="Sil35_v56" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v57" unit="mm" x="-211.95902633667" y="81.0100021362305" z="-7.24611854553223"/>
+    <position name="Sil35_v58" unit="mm" x="-211.95902633667" y="80.6900024414062" z="-7.24611854553223"/>
+    <position name="Sil35_v59" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v60" unit="mm" x="-211.95902633667" y="80.6900024414062" z="-7.24611854553223"/>
+    <position name="Sil35_v61" unit="mm" x="-212.466208457947" y="80.6900024414062" z="-7.99804639816284"/>
+    <position name="Sil35_v62" unit="mm" x="-213.132224082947" y="80.6900024414062" z="-8.55690002441406"/>
+    <position name="Sil35_v63" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v64" unit="mm" x="-212.466208457947" y="80.6900024414062" z="-7.99804639816284"/>
+    <position name="Sil35_v65" unit="mm" x="-213.132224082947" y="81.0100021362305" z="-8.55690002441406"/>
+    <position name="Sil35_v66" unit="mm" x="-212.466208457947" y="81.0100021362305" z="-7.99804639816284"/>
+    <position name="Sil35_v67" unit="mm" x="-213.132224082947" y="80.6900024414062" z="-8.55690002441406"/>
+  </define>
+
+  <materials>
+    <isotope N="1" Z="1" name="H10x25a70a0">
+      <atom unit="g/mole" value="1.00782503081372"/>
+    </isotope>
+    <isotope N="2" Z="1" name="H20x25a7110">
+      <atom unit="g/mole" value="2.01410199966617"/>
+    </isotope>
+    <element name="H0x25aa390">
+      <fraction n="0.999885" ref="H10x25a70a0"/>
+      <fraction n="0.000115" ref="H20x25a7110"/>
+    </element>
+    <isotope N="16" Z="8" name="O160x259f220">
+      <atom unit="g/mole" value="15.9949"/>
+    </isotope>
+    <isotope N="17" Z="8" name="O170x259f620">
+      <atom unit="g/mole" value="16.9991"/>
+    </isotope>
+    <isotope N="18" Z="8" name="O180x259f6b0">
+      <atom unit="g/mole" value="17.9992"/>
+    </isotope>
+    <element name="O0x259f3a0">
+      <fraction n="0.99757" ref="O160x259f220"/>
+      <fraction n="0.00038" ref="O170x259f620"/>
+      <fraction n="0.00205" ref="O180x259f6b0"/>
+    </element>
+    <material name="G4_WATER0x25a6f70" state="solid">
+      <MEE unit="eV" value="78"/>
+      <D unit="g/cm3" value="1"/>
+      <fraction n="0.111898477841067" ref="H0x25aa390"/>
+      <fraction n="0.888101522158933" ref="O0x259f3a0"/>
+    </material>
+    <isotope N="12" Z="6" name="C120x259a880">
+      <atom unit="g/mole" value="12"/>
+    </isotope>
+    <isotope N="13" Z="6" name="C130x259aa80">
+      <atom unit="g/mole" value="13.0034"/>
+    </isotope>
+    <element name="C0x2598c30">
+      <fraction n="0.9893" ref="C120x259a880"/>
+      <fraction n="0.0107" ref="C130x259aa80"/>
+    </element>
+    <isotope N="14" Z="7" name="N140x259f2a0">
+      <atom unit="g/mole" value="14.0031"/>
+    </isotope>
+    <isotope N="15" Z="7" name="N150x259f340">
+      <atom unit="g/mole" value="15.0001"/>
+    </isotope>
+    <element name="N0x259f040">
+      <fraction n="0.99632" ref="N140x259f2a0"/>
+      <fraction n="0.00368" ref="N150x259f340"/>
+    </element>
+    <isotope N="36" Z="18" name="Ar360x259f550">
+      <atom unit="g/mole" value="35.9675"/>
+    </isotope>
+    <isotope N="38" Z="18" name="Ar380x259f980">
+      <atom unit="g/mole" value="37.9627"/>
+    </isotope>
+    <isotope N="40" Z="18" name="Ar400x259fa80">
+      <atom unit="g/mole" value="39.9624"/>
+    </isotope>
+    <element name="Ar0x259f720">
+      <fraction n="0.003365" ref="Ar360x259f550"/>
+      <fraction n="0.000632" ref="Ar380x259f980"/>
+      <fraction n="0.996003" ref="Ar400x259fa80"/>
+    </element>
+    <material name="G4_AIR0x259ee70" state="gas">
+      <MEE unit="eV" value="85.7"/>
+      <D unit="g/cm3" value="0.00120479"/>
+      <fraction n="0.000124000124000124" ref="C0x2598c30"/>
+      <fraction n="0.755267755267755" ref="N0x259f040"/>
+      <fraction n="0.231781231781232" ref="O0x259f3a0"/>
+      <fraction n="0.0128270128270128" ref="Ar0x259f720"/>
+    </material>
+  </materials>
+
+  <solids>
+    <tessellated aunit="deg" lunit="mm" name="Sil350x25b97e0">
+      <triangular vertex1="Sil35_v0" vertex2="Sil35_v1" vertex3="Sil35_v2"/>
+      <triangular vertex1="Sil35_v0" vertex2="Sil35_v2" vertex3="Sil35_v3"/>
+      <triangular vertex1="Sil35_v4" vertex2="Sil35_v0" vertex3="Sil35_v5"/>
+      <triangular vertex1="Sil35_v6" vertex2="Sil35_v0" vertex3="Sil35_v7"/>
+      <triangular vertex1="Sil35_v2" vertex2="Sil35_v8" vertex3="Sil35_v9"/>
+      <triangular vertex1="Sil35_v1" vertex2="Sil35_v10" vertex3="Sil35_v2"/>
+      <triangular vertex1="Sil35_v0" vertex2="Sil35_v11" vertex3="Sil35_v12"/>
+      <triangular vertex1="Sil35_v0" vertex2="Sil35_v13" vertex3="Sil35_v1"/>
+      <triangular vertex1="Sil35_v14" vertex2="Sil35_v15" vertex3="Sil35_v16"/>
+      <triangular vertex1="Sil35_v14" vertex2="Sil35_v17" vertex3="Sil35_v6"/>
+      <triangular vertex1="Sil35_v18" vertex2="Sil35_v0" vertex3="Sil35_v6"/>
+      <triangular vertex1="Sil35_v19" vertex2="Sil35_v20" vertex3="Sil35_v21"/>
+      <triangular vertex1="Sil35_v22" vertex2="Sil35_v23" vertex3="Sil35_v0"/>
+      <triangular vertex1="Sil35_v24" vertex2="Sil35_v6" vertex3="Sil35_v25"/>
+      <triangular vertex1="Sil35_v2" vertex2="Sil35_v9" vertex3="Sil35_v3"/>
+      <triangular vertex1="Sil35_v9" vertex2="Sil35_v26" vertex3="Sil35_v3"/>
+      <triangular vertex1="Sil35_v27" vertex2="Sil35_v28" vertex3="Sil35_v29"/>
+      <triangular vertex1="Sil35_v30" vertex2="Sil35_v31" vertex3="Sil35_v32"/>
+      <triangular vertex1="Sil35_v33" vertex2="Sil35_v3" vertex3="Sil35_v34"/>
+      <triangular vertex1="Sil35_v35" vertex2="Sil35_v36" vertex3="Sil35_v37"/>
+      <triangular vertex1="Sil35_v3" vertex2="Sil35_v38" vertex3="Sil35_v39"/>
+      <triangular vertex1="Sil35_v40" vertex2="Sil35_v41" vertex3="Sil35_v42"/>
+      <triangular vertex1="Sil35_v43" vertex2="Sil35_v6" vertex3="Sil35_v44"/>
+      <triangular vertex1="Sil35_v14" vertex2="Sil35_v6" vertex3="Sil35_v45"/>
+      <triangular vertex1="Sil35_v46" vertex2="Sil35_v47" vertex3="Sil35_v48"/>
+      <triangular vertex1="Sil35_v49" vertex2="Sil35_v50" vertex3="Sil35_v9"/>
+      <triangular vertex1="Sil35_v51" vertex2="Sil35_v14" vertex3="Sil35_v52"/>
+      <triangular vertex1="Sil35_v53" vertex2="Sil35_v54" vertex3="Sil35_v55"/>
+      <triangular vertex1="Sil35_v56" vertex2="Sil35_v57" vertex3="Sil35_v58"/>
+      <triangular vertex1="Sil35_v59" vertex2="Sil35_v60" vertex3="Sil35_v61"/>
+      <triangular vertex1="Sil35_v62" vertex2="Sil35_v63" vertex3="Sil35_v64"/>
+      <triangular vertex1="Sil35_v65" vertex2="Sil35_v66" vertex3="Sil35_v67"/>
+    </tessellated>
+    <box lunit="mm" name="world_solid0x25ab760" x="1000" y="1000" z="1000"/>
+  </solids>
+
+  <structure>
+    <volume name="Sil35">
+      <materialref ref="G4_WATER0x25a6f70"/>
+      <solidref ref="Sil350x25b97e0"/>
+    </volume>
+  </structure>
+
+  <setup name="Default" version="1.0">
+    <world ref="Sil35"/>
+  </setup>
+
+</gdml>

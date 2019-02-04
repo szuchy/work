@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+  <define>
+    <position name="RDM_3737009_1_sd_v0" unit="mm" x="-177.519329071045" y="50.8499984741211" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v1" unit="mm" x="-177.519329071045" y="50.8499984741211" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v2" unit="mm" x="-184.519328117371" y="50.8499984741211" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v3" unit="mm" x="-184.519328117371" y="50.8499984741211" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v4" unit="mm" x="-184.519328117371" y="50.8499984741211" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v5" unit="mm" x="-177.519329071045" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v6" unit="mm" x="-177.519329071045" y="51.2999992370605" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v7" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v8" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v9" unit="mm" x="-184.519328117371" y="50.8499984741211" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v10" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v11" unit="mm" x="-184.519328117371" y="50.8499984741211" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v12" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v13" unit="mm" x="-184.519328117371" y="50.8499984741211" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v14" unit="mm" x="-184.519328117371" y="50.8499984741211" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v15" unit="mm" x="-177.519329071045" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v16" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v17" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v18" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v19" unit="mm" x="-177.519329071045" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v20" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-13.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v21" unit="mm" x="-177.519329071045" y="51.2999992370605" z="-18.6607799530029"/>
+    <position name="RDM_3737009_1_sd_v22" unit="mm" x="-184.519328117371" y="51.2999992370605" z="-18.6607799530029"/>
+  </define>
+
+  <materials>
+    <isotope N="1" Z="1" name="H10x1e1b0b0">
+      <atom unit="g/mole" value="1.00782503081372"/>
+    </isotope>
+    <isotope N="2" Z="1" name="H20x1e1b120">
+      <atom unit="g/mole" value="2.01410199966617"/>
+    </isotope>
+    <element name="H0x1e1e3a0">
+      <fraction n="0.999885" ref="H10x1e1b0b0"/>
+      <fraction n="0.000115" ref="H20x1e1b120"/>
+    </element>
+    <isotope N="16" Z="8" name="O160x1e13230">
+      <atom unit="g/mole" value="15.9949"/>
+    </isotope>
+    <isotope N="17" Z="8" name="O170x1e13630">
+      <atom unit="g/mole" value="16.9991"/>
+    </isotope>
+    <isotope N="18" Z="8" name="O180x1e136c0">
+      <atom unit="g/mole" value="17.9992"/>
+    </isotope>
+    <element name="O0x1e133b0">
+      <fraction n="0.99757" ref="O160x1e13230"/>
+      <fraction n="0.00038" ref="O170x1e13630"/>
+      <fraction n="0.00205" ref="O180x1e136c0"/>
+    </element>
+    <material name="G4_WATER0x1e1af80" state="solid">
+      <MEE unit="eV" value="78"/>
+      <D unit="g/cm3" value="1"/>
+      <fraction n="0.111898477841067" ref="H0x1e1e3a0"/>
+      <fraction n="0.888101522158933" ref="O0x1e133b0"/>
+    </material>
+    <isotope N="12" Z="6" name="C120x1e0e890">
+      <atom unit="g/mole" value="12"/>
+    </isotope>
+    <isotope N="13" Z="6" name="C130x1e0ea90">
+      <atom unit="g/mole" value="13.0034"/>
+    </isotope>
+    <element name="C0x1e0cc40">
+      <fraction n="0.9893" ref="C120x1e0e890"/>
+      <fraction n="0.0107" ref="C130x1e0ea90"/>
+    </element>
+    <isotope N="14" Z="7" name="N140x1e132b0">
+      <atom unit="g/mole" value="14.0031"/>
+    </isotope>
+    <isotope N="15" Z="7" name="N150x1e13350">
+      <atom unit="g/mole" value="15.0001"/>
+    </isotope>
+    <element name="N0x1e13050">
+      <fraction n="0.99632" ref="N140x1e132b0"/>
+      <fraction n="0.00368" ref="N150x1e13350"/>
+    </element>
+    <isotope N="36" Z="18" name="Ar360x1e13560">
+      <atom unit="g/mole" value="35.9675"/>
+    </isotope>
+    <isotope N="38" Z="18" name="Ar380x1e13990">
+      <atom unit="g/mole" value="37.9627"/>
+    </isotope>
+    <isotope N="40" Z="18" name="Ar400x1e13a90">
+      <atom unit="g/mole" value="39.9624"/>
+    </isotope>
+    <element name="Ar0x1e13730">
+      <fraction n="0.003365" ref="Ar360x1e13560"/>
+      <fraction n="0.000632" ref="Ar380x1e13990"/>
+      <fraction n="0.996003" ref="Ar400x1e13a90"/>
+    </element>
+    <material name="G4_AIR0x1e12e80" state="gas">
+      <MEE unit="eV" value="85.7"/>
+      <D unit="g/cm3" value="0.00120479"/>
+      <fraction n="0.000124000124000124" ref="C0x1e0cc40"/>
+      <fraction n="0.755267755267755" ref="N0x1e13050"/>
+      <fraction n="0.231781231781232" ref="O0x1e133b0"/>
+      <fraction n="0.0128270128270128" ref="Ar0x1e13730"/>
+    </material>
+  </materials>
+
+  <solids>
+    <tessellated aunit="deg" lunit="mm" name="RDM_3737009_1_sd0x1e2c100">
+      <triangular vertex1="RDM_3737009_1_sd_v0" vertex2="RDM_3737009_1_sd_v1" vertex3="RDM_3737009_1_sd_v2"/>
+      <triangular vertex1="RDM_3737009_1_sd_v3" vertex2="RDM_3737009_1_sd_v0" vertex3="RDM_3737009_1_sd_v4"/>
+      <triangular vertex1="RDM_3737009_1_sd_v0" vertex2="RDM_3737009_1_sd_v5" vertex3="RDM_3737009_1_sd_v6"/>
+      <triangular vertex1="RDM_3737009_1_sd_v0" vertex2="RDM_3737009_1_sd_v6" vertex3="RDM_3737009_1_sd_v1"/>
+      <triangular vertex1="RDM_3737009_1_sd_v7" vertex2="RDM_3737009_1_sd_v8" vertex3="RDM_3737009_1_sd_v9"/>
+      <triangular vertex1="RDM_3737009_1_sd_v10" vertex2="RDM_3737009_1_sd_v3" vertex3="RDM_3737009_1_sd_v11"/>
+      <triangular vertex1="RDM_3737009_1_sd_v12" vertex2="RDM_3737009_1_sd_v13" vertex3="RDM_3737009_1_sd_v6"/>
+      <triangular vertex1="RDM_3737009_1_sd_v6" vertex2="RDM_3737009_1_sd_v14" vertex3="RDM_3737009_1_sd_v1"/>
+      <triangular vertex1="RDM_3737009_1_sd_v15" vertex2="RDM_3737009_1_sd_v0" vertex3="RDM_3737009_1_sd_v16"/>
+      <triangular vertex1="RDM_3737009_1_sd_v17" vertex2="RDM_3737009_1_sd_v0" vertex3="RDM_3737009_1_sd_v3"/>
+      <triangular vertex1="RDM_3737009_1_sd_v18" vertex2="RDM_3737009_1_sd_v6" vertex3="RDM_3737009_1_sd_v19"/>
+      <triangular vertex1="RDM_3737009_1_sd_v20" vertex2="RDM_3737009_1_sd_v21" vertex3="RDM_3737009_1_sd_v22"/>
+    </tessellated>
+    <box lunit="mm" name="world_solid0x1e1f770" x="1000" y="1000" z="1000"/>
+  </solids>
+
+  <structure>
+    <volume name="RDM_3737009_1_sd">
+      <materialref ref="G4_WATER0x1e1af80"/>
+      <solidref ref="RDM_3737009_1_sd0x1e2c100"/>
+    </volume>
+  </structure>
+
+  <setup name="Default" version="1.0">
+    <world ref="RDM_3737009_1_sd"/>
+  </setup>
+
+</gdml>

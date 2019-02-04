@@ -1,0 +1,52 @@
+#/det/setGDML gdml/PIF.gdml
+
+/analysis/bookHist true
+/analysis/bookTree true
+/analysis/storeTrack true
+/analysis/addSD EDEC_SiDet1
+/analysis/addSD EDEC_SiDet2
+/analysis/addSD EDEC_SiDet3
+/analysis/addSD EDEC_SiDet4
+/analysis/addSD EDEC_SiDet5
+/analysis/addSD EDEC_SiDet6
+/analysis/addSD EDEC_SiDet7
+/analysis/addSD EDEC_SiDet8
+/analysis/addSD EDEC_SiDet9
+/analysis/addSD EDEC_SiDet10
+/analysis/addSD EDEC_SiDet11
+/analysis/addSD EDEC_SiDet12
+/analysis/addSD EDEC_SiDet13
+/analysis/addSD EDEC_SiDet14
+/analysis/addSD EDEC_SiDet15
+/analysis/addSD EDEC_SiDet16
+/analysis/addSD Diode1
+/analysis/addSD Diode2
+/analysis/addSD Diode3
+/analysis/addSD Diode4
+/analysis/addSD Diode5
+/analysis/addSD Diode6
+/analysis/addSD Diode7
+
+/run/initialize
+
+/gps/particle  proton 
+/gps/energy 200 MeV
+/gps/pos/type Plane
+#/gps/pos/type Beam
+/gps/pos/shape Circle
+/gps/pos/centre 14 45 400 mm
+/gps/pos/radius  25 mm
+#x, z,y
+#/gps/position 14 43 400. mm
+/gps/direction 0 0 -1 
+
+#/gps/pos/sigma_r 50 mm
+
+#/gps/pos/sigma_x 50 mm
+#/gps/pos/sigma_y 50 mm
+#/gps/pos/rot1 1 0 0
+#/gps/pos/rot2 0 0 -1
+#/gps/ang/type iso
+
+/run/beamOn 50000
+
